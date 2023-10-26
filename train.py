@@ -1,6 +1,5 @@
 # train
 
-from load_data import *
 from nn_model import *
 import torch.optim as optim
 
