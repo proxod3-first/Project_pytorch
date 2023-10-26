@@ -1,2 +1,2 @@
 # Project_pytorch
-For project on pytorch
+For pytorch project
